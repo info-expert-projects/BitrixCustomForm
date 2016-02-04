@@ -1,0 +1,29 @@
+{
+  "name": "pafnuty/bitrix-custom-form",
+  "description": "Простой компонент для нестандартных форм",
+  "keywords": [
+    "bitrix",
+    "Битрикс",
+    "компонент",
+    "form",
+  ],
+  "type": "bitrix-module",
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/pafnuty/Bitrix-CustomForm/issues",
+    "skype": "paffffff",
+    "source": "https://github.com/pafnuty/Bitrix-CustomForm"
+  },
+  "authors": [
+    {
+      "name": "Павел Белоусов",
+      "email": "pafnuty10@gmail.com"
+    }
+  ],
+  "extra": {
+    "installer-name": "cn.custom.form"
+  },
+  "require": {
+    "composer/installers": ">=1.0.22 <2.0"
+  }
+}
